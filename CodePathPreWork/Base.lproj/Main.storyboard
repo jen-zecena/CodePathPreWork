@@ -49,14 +49,14 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="$0.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m5b-lJ-dkx">
-                                <rect key="frame" x="286" y="168" width="45" height="21"/>
+                                <rect key="frame" x="286" y="168" width="78" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="$0.00" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="o5h-ST-Gxk">
-                                <rect key="frame" x="287" y="287" width="45" height="21"/>
+                                <rect key="frame" x="287" y="287" width="77" height="21"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
@@ -75,10 +75,9 @@
                     </view>
                     <connections>
                         <outlet property="billAmountTextField" destination="ng9-t7-Myq" id="NWh-8u-vod"/>
-                        <outlet property="tipAmountLabel" destination="m5b-lJ-dkx" id="Bzg-lg-ite"/>
-                        <outlet property="tipControl" destination="LTt-fR-KZC" id="5cP-sj-Do2"/>
-                        <outlet property="tipField" destination="m5b-lJ-dkx" id="Ii8-Xm-JSV"/>
-                        <outlet property="totalLabel" destination="S3I-tp-Wyv" id="pTT-5a-jRk"/>
+                        <outlet property="tipAmountLabel" destination="m5b-lJ-dkx" id="nrW-DO-C8T"/>
+                        <outlet property="tipControl" destination="LTt-fR-KZC" id="LuN-sl-ejC"/>
+                        <outlet property="totalLabel" destination="o5h-ST-Gxk" id="oJk-9c-LSa"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
