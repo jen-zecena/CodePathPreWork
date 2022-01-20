@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B38BB682799339B009A91B3 /* SettingsViewControlelrViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B38BB672799339B009A91B3 /* SettingsViewControlelrViewController.swift */; };
 		7BA25FD82793BF2400349683 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA25FD72793BF2400349683 /* AppDelegate.swift */; };
 		7BA25FDA2793BF2400349683 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA25FD92793BF2400349683 /* SceneDelegate.swift */; };
 		7BA25FDC2793BF2400349683 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BA25FDB2793BF2400349683 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7B38BB672799339B009A91B3 /* SettingsViewControlelrViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewControlelrViewController.swift; sourceTree = "<group>"; };
 		7BA25FD42793BF2400349683 /* CodePathPreWork.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CodePathPreWork.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BA25FD72793BF2400349683 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BA25FD92793BF2400349683 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		7BA25FCB2793BF2400349683 = {
 			isa = PBXGroup;
 			children = (
+				7B38BB672799339B009A91B3 /* SettingsViewControlelrViewController.swift */,
 				7BA25FD62793BF2400349683 /* CodePathPreWork */,
 				7BA25FED2793BF2900349683 /* CodePathPreWorkTests */,
 				7BA25FF72793BF2900349683 /* CodePathPreWorkUITests */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B38BB682799339B009A91B3 /* SettingsViewControlelrViewController.swift in Sources */,
 				7BA25FDC2793BF2400349683 /* ViewController.swift in Sources */,
 				7BA25FD82793BF2400349683 /* AppDelegate.swift in Sources */,
 				7BA25FDA2793BF2400349683 /* SceneDelegate.swift in Sources */,
