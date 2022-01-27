@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var billView: UIView!
     @IBOutlet weak var peopleView: UIView!
     @IBOutlet weak var tipTotalView: UIView!
+    @IBOutlet weak var BT: UIView!
+    @IBOutlet weak var PT: UIView!
     @IBOutlet weak var totalView: UILabel!
     
     @IBOutlet weak var tipPercentView: UIView!
@@ -30,8 +32,12 @@ class ViewController: UIViewController {
         peopleView.layer.cornerRadius = 5
         tipTotalView.layer.cornerRadius = 5
         tipPercentView.layer.cornerRadius = 5
+        BT.layer.cornerRadius = 5
+        PT.layer.cornerRadius = 5
         totalView.layer.masksToBounds = true
         totalView.layer.cornerRadius = 5
+        
+        billAmountTextField.becomeFirstResponder()
 
        
     }
