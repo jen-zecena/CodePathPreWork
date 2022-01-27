@@ -5,7 +5,7 @@
 
 Submitted by: **Jennifer Zecena**
 
-Time spent: **4** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## User Stories
 
@@ -42,7 +42,7 @@ One challenge that I encountered while building the app was figuring out how to 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Jennifer Zecena]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
